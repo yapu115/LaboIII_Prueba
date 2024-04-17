@@ -1,0 +1,56 @@
+Front end: Toda la parte con la que interactua el usuario, es lo que el usuario ve
+
+Back end: Parte de la logica que no vemos
+
+
+
+Frameworks: React-Angular-V
+
+
+Diseño web Front-end
+-------------------------------------------------------------------------
+UX/UI: 
+US => User experience: Antes/ durante/ después de usar el sitio web
+UI => Interfaz de usuario
+
+Aqui se encuentran:
+-Los objetivos de la pagina
+-El público objetivo
+-La accesibilidad
+
+
+Maquetador: Maqueta de la futura página.
+
+Programadores: Realizar al 100% la página.
+
+Testing QA: Encontrar errores de la página y notificarlos a los programadores.
+----------------------------------------------------------------------------
+
+
+Responsive: Se adapta a cualquier dispositivo
+
+
+3 Elementos basicos que forman un sitio web
+-Texto
+-Imágenes
+-Colores
+
+
+
+
+
+
+
+Primer parcial:
+-html
+-css
+-frameworks
+-entorno gráfico
+
+
+
+
+
+
+Dudas:
+
